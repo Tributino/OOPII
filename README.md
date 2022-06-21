@@ -4,12 +4,12 @@ Course taught in Spring 2022 at Lasalle college Vancouver.
 **Course Description:** 	
 This course focuses on advanced object-oriented programming techniques in C++. 
 
-**Course Competencies:** Upon successful completion of this course, the student will be able to: 
-	●  Develop a working knowledge of object-oriented programming techniques 
-	●  Design and implement classes and objects 
-	●  Develop deeper understanding of the object-oriented concepts through C++ 
-	●  Effectively work with pointers through use of dynamic memory allocation 
-	●  Practice at writing more robust, and stable software 
+**Course Competencies:** 
+- Develop a working knowledge of object-oriented programming techniques 
+- Design and implement classes and objects 
+- Develop deeper understanding of the object-oriented concepts through C++ 
+- Effectively work with pointers through use of dynamic memory allocation 
+- Practice at writing more robust, and stable software 
 
 **Suggested books:** 	
 1. C++ Programming from Problem Analysis to Program Design (5th Edition) by D.S. Malik 
