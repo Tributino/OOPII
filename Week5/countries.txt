@@ -1,0 +1,11 @@
+Country name: Venezuela, ISO code: VE
+Country name: India, ISO code: IN
+Country name: Italy, ISO code: IT
+Country name: Russian, ISO code: RU
+Country name: Mexico, ISO code: MX
+Country name: Brazil, ISO code: BR
+Country name: Vanuatu, ISO code: VU
+Country name: Great Britain, ISO code: GB
+Country name: Mexico, ISO code: MX
+Country name: United States, ISO code: US
+Country name: Israel, ISO code: IL

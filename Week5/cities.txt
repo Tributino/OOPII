@@ -1,0 +1,11 @@
+cityId: 3632308 name: Merida, country: VE
+cityId: 1261800 name: Nargund, country: IN
+cityId: 3176738 name: Formia, country: IT
+cityId: 566854 name: Dedovsk, country: RU
+cityId: 3985241 name: San Nicolas de los Garza, country: MX
+cityId: 3457000 name: Mogi Guacu, country: BR
+cityId: 2135171 name: Port-Vila, country: VU
+cityId: 2634853 name: Walsall, country: GB
+cityId: 3520235 name: Rio Verde, country: MX
+cityId: 4154205 name: Edgewater, country: US
+cityId: 8199394 name: Ariel, country: IL
