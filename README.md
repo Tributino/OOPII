@@ -3,6 +3,8 @@ Course taught in Spring 2022 at Lasalle college Vancouver.
 
 **Course Description:** 	
 This course focuses on advanced object-oriented programming techniques in C++. 
+Course Length:  	11 weeks 
+Contact Hours:	44 hours 
 
 **Course Competencies:** 
 - Develop a working knowledge of object-oriented programming techniques 
